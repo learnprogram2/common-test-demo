@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="common-test-demo" options="-extdirs C:\Users\wangym\Desktop\任务制\reset.5.31\common-test-demo/src/main/resources/lib -proc:none" />
+      <module name="common-test-demo" options="-extdirs C:\JavaApps\IDEA\common-test-demo/src/main/resources/lib -proc:none" />
     </option>
   </component>
 </project>
