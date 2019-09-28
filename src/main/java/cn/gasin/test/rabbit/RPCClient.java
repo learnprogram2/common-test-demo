@@ -18,12 +18,12 @@ public class RPCClient {
 	private Channel channel;
 	private String requestQueueName = "rpc_queue";
 	private String replyQueueName;
-//	private QueueingConsumer consumer;
+	//	private QueueingConsumer consumer;
 
 
 	public RPCClient() throws IOException, TimeoutException {
 		// 1.创建connection和channel
 		Channel replyQueueName = RPCServer.getChannel(connection);
-//		new QueueingCon
+		//		new QueueingCon
 	}
 }
